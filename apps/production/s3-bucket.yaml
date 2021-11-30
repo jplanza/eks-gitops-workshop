@@ -4,4 +4,4 @@ metadata:
   name: eks-gitops-workshop
   namespace: default
 spec:
-  name: "eks-gitops-workshop-"
+  name: "eks-gitops-workshop-344790952508"
